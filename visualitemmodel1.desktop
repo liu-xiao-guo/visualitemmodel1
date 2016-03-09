@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=visualitemmodel1
+Exec=qmlscene $@ Main.qml
+Icon=visualitemmodel1.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

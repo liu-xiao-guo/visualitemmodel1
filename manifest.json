@@ -1,0 +1,17 @@
+{
+    "name": "visualitemmodel1.liu-xiao-guo",
+    "description": "description of visualitemmodel1",
+    "architecture": "all",
+    "title": "visualitemmodel1",
+    "hooks": {
+        "visualitemmodel1": {
+            "apparmor": "visualitemmodel1.apparmor",
+            "desktop":  "visualitemmodel1.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
